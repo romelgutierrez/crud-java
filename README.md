@@ -1,4 +1,4 @@
-# CRUD JAVA SIN BASA DE DATOS | UPeU
+# CRUD JAVA SIN BASE DE DATOS | UPeU
 ## PROGRAMACIÓN ORIENTADO A OBJETO.
 CRUD de persona com un menú amigable.
 ## Estructura: POO
